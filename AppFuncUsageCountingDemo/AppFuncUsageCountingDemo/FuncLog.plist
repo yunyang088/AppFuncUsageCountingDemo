@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ViewController</key>
+	<dict>
+		<key>GLLoggingTrackedEvents</key>
+		<array>
+			<dict>
+				<key>GLLoggingEventName</key>
+				<string>第一个方法</string>
+				<key>GLLoggingFuncName</key>
+				<string>FirstFunc</string>
+				<key>GLLoggingSelectorName</key>
+				<string>m_FirstFunc:</string>
+			</dict>
+			<dict>
+				<key>GLLoggingEventName</key>
+				<string>完善信息</string>
+				<key>GLLoggingFuncName</key>
+				<string>completeInfo</string>
+				<key>GLLoggingSelectorName</key>
+				<string>m_completeInfo</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
